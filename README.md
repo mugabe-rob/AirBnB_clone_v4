@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 AirBnB Clone - Web Dynamic
 Authors
 MUGABE Robert - Github / X
