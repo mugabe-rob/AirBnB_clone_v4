@@ -1,4 +1,12 @@
+AirBnB Clone - Web Dynamic
+Authors
+MUGABE Robert - Github / X
+Bahati Remmy - Github / X
 
+Second part of Airbnb: Bahati Remmy
+
+License
+Public Domain. No copy write protection.
 
 
 
